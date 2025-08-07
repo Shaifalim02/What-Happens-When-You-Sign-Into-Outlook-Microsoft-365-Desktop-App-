@@ -58,7 +58,7 @@ Example : C:\Users\Shaifali\AppData\Local\Microsoft\Outlook\your_email@domain.co
 
 ---
 
-### 8️⃣. What’s Inside the OST?
+### 8️⃣ What’s Inside the OST?
 It contains your:  
 - Emails 📧  
 - Calendar 📅  
@@ -69,7 +69,7 @@ Any changes you make offline (reply, delete, draft) are **synced back to the ser
 
 ---
 
-### 9️⃣. Background Sync
+### 9️⃣ Background Sync
 Outlook constantly syncs the **OST file** with **Exchange Online** in the background to ensure you're always up to date across all devices.
 
 ---
