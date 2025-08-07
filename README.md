@@ -45,6 +45,15 @@ If **Cached Exchange Mode** is ON (default for most desktop users):
 ```plaintext
 C:\Users\<YourUsername>\AppData\Local\Microsoft\Outlook\
 
-Example
+Example : C:\Users\Shaifali\AppData\Local\Microsoft\Outlook\your_email@domain.com.ost
+```
 
-C:\Users\Shaifali\AppData\Local\Microsoft\Outlook\your_email@domain.com.ost
+---
+
+### 🔄 9. Background Sync
+Outlook constantly syncs the **OST file** with **Exchange Online** in the background to ensure you're always up to date across all devices.
+
+---
+
+💡 **Tech Tip:**  
+If you’re facing Outlook performance issues or mailbox corruption, checking the **OST file health or size** is a good place to start.
