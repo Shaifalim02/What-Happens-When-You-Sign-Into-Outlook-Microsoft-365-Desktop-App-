@@ -34,9 +34,9 @@ Outlook connects to **Exchange Online** to load your mailbox, calendar, and cont
 ---
 
 ### ScreenShots WalkThrough
-| Steps | Description | ScreenShot |
-|-------|-------------|------------|
-|  1️⃣  | "Outlook Sign-In Screen — Entering Password" | ![Image Alt](https://github.com/Shaifalim02/What-Happens-When-You-Sign-Into-Outlook-Microsoft-365-Desktop-App-/blob/2c108f8c79250148d5474b0c0731d5514db303fa/Outlook.jpeg) |
+| Description | ScreenShot |
+|-------------|------------|
+|  "Outlook Sign-In Screen — Entering Password" | ![Image Alt](https://github.com/Shaifalim02/What-Happens-When-You-Sign-Into-Outlook-Microsoft-365-Desktop-App-/blob/2c108f8c79250148d5474b0c0731d5514db303fa/Outlook.jpeg) |
 
 ---
 
@@ -58,7 +58,7 @@ Example : C:\Users\Shaifali\AppData\Local\Microsoft\Outlook\your_email@domain.co
 
 ---
 
-### 🛠️ 8. What’s Inside the OST?
+### 8️⃣. What’s Inside the OST?
 It contains your:  
 - Emails 📧  
 - Calendar 📅  
@@ -69,7 +69,7 @@ Any changes you make offline (reply, delete, draft) are **synced back to the ser
 
 ---
 
-### 🔄 9. Background Sync
+### 9️⃣. Background Sync
 Outlook constantly syncs the **OST file** with **Exchange Online** in the background to ensure you're always up to date across all devices.
 
 ---
