@@ -33,6 +33,13 @@ Outlook connects to **Exchange Online** to load your mailbox, calendar, and cont
 
 ---
 
+### ScreenShots WalkThrough
+| Steps | Description | ScreenShot |
+|-------|-------------|------------|
+|  1️⃣  | "Outlook Sign-In Screen — Entering Password" | ![Image Alt](https://github.com/Shaifalim02/What-Happens-When-You-Sign-Into-Outlook-Microsoft-365-Desktop-App-/blob/2c108f8c79250148d5474b0c0731d5514db303fa/Outlook.jpeg) |
+
+---
+
 ## **Phase 2: Cached Exchange Mode & OST File**
 
 If **Cached Exchange Mode** is ON (default for most desktop users):
@@ -40,10 +47,6 @@ If **Cached Exchange Mode** is ON (default for most desktop users):
 6️⃣ **Creation of Local Mailbox Copy**  
 - Outlook creates an **Offline Storage Table (OST)** file to improve performance and allow offline access.
 
-### ScreenShots WalkThrough
-| Steps | Description | ScreenShot |
-|-------|-------------|------------|
-|  1️⃣  | "Outlook Sign-In Screen — Entering Password" | ![Image Alt](https://github.com/Shaifalim02/What-Happens-When-You-Sign-Into-Outlook-Microsoft-365-Desktop-App-/blob/2c108f8c79250148d5474b0c0731d5514db303fa/Outlook.jpeg) |
 
 7️⃣ **OST File Location**  
 
