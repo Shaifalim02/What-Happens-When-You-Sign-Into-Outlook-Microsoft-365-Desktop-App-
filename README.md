@@ -40,6 +40,11 @@ If **Cached Exchange Mode** is ON (default for most desktop users):
 6️⃣ **Creation of Local Mailbox Copy**  
 - Outlook creates an **Offline Storage Table (OST)** file to improve performance and allow offline access.
 
+### ScreenShots WalkThrough
+| Steps | Description | ScreenShot |
+|-------|-------------|------------|
+|  1️⃣  | Overview of installed roles (AD DS, DNS, File Services) and their status. | ![Image Alt](https://github.com/Shaifalim02/DNS-Configuration-in-Windows-2022-Server/blob/949994b052bb7381619496b5b1a296f469f87441/Server%20Manager%20Dashboard.jpeg) |
+
 7️⃣ **OST File Location**  
 
 ```plaintext
@@ -57,3 +62,4 @@ Outlook constantly syncs the **OST file** with **Exchange Online** in the backgr
 
 💡 **Tech Tip:**  
 If you’re facing Outlook performance issues or mailbox corruption, checking the **OST file health or size** is a good place to start.
+
