@@ -44,3 +44,7 @@ If **Cached Exchange Mode** is ON (default for most desktop users):
 
 ```plaintext
 C:\Users\<YourUsername>\AppData\Local\Microsoft\Outlook\
+
+Example
+
+C:\Users\Shaifali\AppData\Local\Microsoft\Outlook\your_email@domain.com.ost
