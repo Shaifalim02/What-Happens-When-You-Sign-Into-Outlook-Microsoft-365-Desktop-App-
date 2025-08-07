@@ -58,6 +58,17 @@ Example : C:\Users\Shaifali\AppData\Local\Microsoft\Outlook\your_email@domain.co
 
 ---
 
+### 🛠️ 8. What’s Inside the OST?
+It contains your:  
+- Emails 📧  
+- Calendar 📅  
+- Contacts 👥  
+- Tasks ✅  
+
+Any changes you make offline (reply, delete, draft) are **synced back to the server** the next time you're connected.
+
+---
+
 ### 🔄 9. Background Sync
 Outlook constantly syncs the **OST file** with **Exchange Online** in the background to ensure you're always up to date across all devices.
 
@@ -66,3 +77,12 @@ Outlook constantly syncs the **OST file** with **Exchange Online** in the backgr
 💡 **Tech Tip:**  
 If you’re facing Outlook performance issues or mailbox corruption, checking the **OST file health or size** is a good place to start.
 
+---
+
+### 🙌 Author
+
+Shaifali Shaifali
+- 🔗 Sharing labs and real-world IT demos.
+- 📍 Connect with me on [LinkedIn](https://www.linkedin.com/in/shaifali-shaifali/) | More labs on [GitHub](https://github.com/Shaifalim02)
+
+---
