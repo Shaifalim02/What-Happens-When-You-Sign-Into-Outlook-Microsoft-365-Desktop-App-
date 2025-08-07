@@ -43,7 +43,7 @@ If **Cached Exchange Mode** is ON (default for most desktop users):
 ### ScreenShots WalkThrough
 | Steps | Description | ScreenShot |
 |-------|-------------|------------|
-|  1️⃣  | Overview of installed roles (AD DS, DNS, File Services) and their status. | ![Image Alt](https://github.com/Shaifalim02/DNS-Configuration-in-Windows-2022-Server/blob/949994b052bb7381619496b5b1a296f469f87441/Server%20Manager%20Dashboard.jpeg) |
+|  1️⃣  | "Outlook Sign-In Screen — Entering Password" | ![Image Alt](https://github.com/Shaifalim02/What-Happens-When-You-Sign-Into-Outlook-Microsoft-365-Desktop-App-/blob/2c108f8c79250148d5474b0c0731d5514db303fa/Outlook.jpeg) |
 
 7️⃣ **OST File Location**  
 
